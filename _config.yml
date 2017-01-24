@@ -1,6 +1,7 @@
 # Setup
 name:         "It's gold Jerry. GOLD!"
 tagline:      "We're taking a vacation from ourselves."
+description:  "We're taking a vacation from ourselves."
 baseurl:      ""
 
 # Gems
