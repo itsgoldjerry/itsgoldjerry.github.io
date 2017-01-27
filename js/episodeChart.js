@@ -23,7 +23,7 @@ var episodeChart = new Chart(episodeChartCanvas, {
     options: {
         title: {
             display: true,
-            text: 'Episode Ratings and Character Appearances'
+            text: 'Episode Ratings'
         },
         scales: {
             yAxes :[{
